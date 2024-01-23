@@ -50,3 +50,32 @@
     }
 }
 /* media screen  end*/
+@media (max-width:730px){
+    .logo-png {
+        margin-left: 5px !important;
+    }
+    .text-ariya h1{
+        margin-left: 25px !important;
+    }
+}
+.logo-png {
+    margin-left: 342px;
+   
+}
+.text-ariya h1{
+   text-align: center;
+    font-weight: 500;
+}
+.Unlock {
+    color: #FF9500;
+}
+#fa-bolt2{
+    font-size: 25px;
+}
+.text-ariya2 {
+   text-align: center;
+   margin-top: 15px;
+}
+.text-ariya3{
+    text-align: center;
+}
